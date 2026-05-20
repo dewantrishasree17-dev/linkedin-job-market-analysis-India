@@ -46,9 +46,9 @@ This project demonstrates how data analytics can be used to extract meaningful i
 ## 👩‍💻 About Me
 
 Trishasree Dewan  
-Aspiring Data Analyst | 3rd Year B.Tech (Electrical Engineering),NIT Agartala 
-📊 Focused on Data Analytics & Visualization  
-🛠 Skilled in Excel, SQL, Power BI, and Python  
+- Aspiring Data Analyst | 3rd Year B.Tech (Electrical Engineering),NIT Agartala 
+- Focused on Data Analytics & Visualization  
+- Skilled in Excel, SQL, Power BI, and Python  
 
 🔗 LinkedIn: https://www.linkedin.com/in/trishasree-dewan-53681929a  
 🔗 GitHub: https://github.com/dewantrishasree17-dev
