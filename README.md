@@ -20,10 +20,11 @@ This project focuses on analyzing LinkedIn job postings data to understand curre
 
 | Focus Area           | Insights                                                                 |
 |---------------------|-------------------------------------------------------------------------|
-| Location Trends     | Hiring is highly concentrated in metro cities like Bangalore, Mumbai, and Delhi |
-| Experience Demand   | Mid-level roles dominate the job market, showing preference for experienced candidates |
-| Job Roles           | Data Analyst and related roles are among the most in-demand positions   |
-| Regional Variation  | Job opportunities are unevenly distributed across different cities      |
+| Job Role Demand     | Data Analyst and related roles appear most frequently, indicating strong demand in data-driven positions |
+| Location Trends     | Majority of job postings are concentrated in major cities like Bangalore, Mumbai, and Delhi |
+| Experience Level    | Most job openings target mid-level professionals, showing preference for experienced candidates |
+| Work Type           | A significant portion of jobs offer hybrid or on-site roles, with fewer fully remote opportunities |
+| Hiring Activity     | Recently posted jobs indicate continuous hiring demand across multiple regions |
 
 - ## 📌 Project Tasks
 - Collected and selected relevant job dataset
